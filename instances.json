@@ -1,6 +1,42 @@
 [
-	{"owner_name": "PussTheCat.org", "owner_website": "https://pussthecat.org", "instance": "https://breezewiki.pussthecat.org"},
-	{"owner_name": "~vern", "owner_website": "https://vern.cc", "instance": "https://bw.vern.cc"},
-	{"owner_name": "Esmail", "owner_website": "https://en.esmailelbob.xyz", "instance": "https://breezewiki.esmailelbob.xyz"},
-	{"owner_name": "Artemis", "owner_website": "https://artemislena.eu", "instance": "https://bw.artemislena.eu"}
+  {
+    "owner_name": "Artemis Everfree",
+    "owner_website": "https://artemis.sh/",
+    "instance": "https://antifandom.com"
+  },
+  {
+    "owner_name": "~vern",
+    "owner_website": "https://vern.cc",
+    "instance": "https://bw.vern.cc"
+  },
+  {
+    "owner_name": "PussTheCat.org",
+    "owner_website": "https://pussthecat.org",
+    "instance": "https://breezewiki.pussthecat.org"
+  },
+  {
+    "owner_name": "Project Segfault",
+    "owner_website": "https://projectsegfau.lt",
+    "instance": "https://bw.projectsegfau.lt"
+  },
+  {
+    "owner_name": "Hostux",
+    "owner_website": "https://hostux.network",
+    "instance": "https://breeze.hostux.net"
+  },
+  {
+    "owner_name": "Artemis Lena",
+    "owner_website": "https://artemislena.eu",
+    "instance": "https://bw.artemislena.eu"
+  },
+  {
+    "owner_name": "Jae",
+    "owner_website": "https://777.tf",
+    "instance": "https://breeze.777.tf/"
+  },
+  {
+    "owner_name": "Esmail",
+    "owner_website": "https://en.esmailelbob.xyz",
+    "instance": "https://breezewiki.esmailelbob.xyz"
+  }
 ]
