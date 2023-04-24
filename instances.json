@@ -2,41 +2,49 @@
   {
     "owner_name": "Cadence",
     "owner_website": "https://cadence.moe",
-    "instance": "https://breezewiki.com"
+    "instance": "https://breezewiki.com",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "Artemis Everfree",
     "owner_website": "https://artemis.sh/",
-    "instance": "https://antifandom.com"
+    "instance": "https://antifandom.com",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "~vern",
     "owner_website": "https://vern.cc",
-    "instance": "https://bw.vern.cc"
+    "instance": "https://bw.vern.cc",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "PussTheCat.org",
     "owner_website": "https://pussthecat.org",
-    "instance": "https://breezewiki.pussthecat.org"
+    "instance": "https://breezewiki.pussthecat.org",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "Project Segfault",
     "owner_website": "https://projectsegfau.lt",
-    "instance": "https://bw.projectsegfau.lt"
+    "instance": "https://bw.projectsegfau.lt",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "Hostux",
     "owner_website": "https://hostux.network",
-    "instance": "https://breeze.hostux.net"
+    "instance": "https://breeze.hostux.net",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "Artemis Lena",
     "owner_website": "https://artemislena.eu",
-    "instance": "https://bw.artemislena.eu"
+    "instance": "https://bw.artemislena.eu",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "Esmail",
     "owner_website": "https://en.esmailelbob.xyz",
-    "instance": "https://breezewiki.esmailelbob.xyz"
+    "instance": "https://breezewiki.esmailelbob.xyz",
+    "iwb_version": "1.0.0"
   }
 ]
