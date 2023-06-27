@@ -46,5 +46,23 @@
     "owner_website": "https://en.esmailelbob.xyz",
     "instance": "https://breezewiki.esmailelbob.xyz",
     "iwb_version": "1.0.0"
+  },
+  {
+    "owner_name": "Hamstro",
+    "owner_website": "https://hamstro.dev/",
+    "instance": "https://bw.hamstro.dev",
+    "iwb_version": "2.2.0"
+  },
+  {
+    "owner_name": "Whatever Social",
+    "owner_website": "https://whatever.social/",
+    "instance": "https://nerd.whatever.social",
+    "iwb_version": "2.2.0"
+  },
+  {
+    "owner_name": "nohoster",
+    "owner_website": "",
+    "instance": "https://breeze.nohost.network",
+    "iwb_version": "2.2.0"
   }
 ]
