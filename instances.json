@@ -12,30 +12,6 @@
     "iwb_version": "1.0.0"
   },
   {
-    "owner_name": "~vern",
-    "owner_website": "https://vern.cc",
-    "instance": "https://bw.vern.cc",
-    "iwb_version": "1.0.0"
-  },
-  {
-    "owner_name": "PussTheCat.org",
-    "owner_website": "https://pussthecat.org",
-    "instance": "https://breezewiki.pussthecat.org",
-    "iwb_version": "1.0.0"
-  },
-  {
-    "owner_name": "Project Segfault",
-    "owner_website": "https://projectsegfau.lt",
-    "instance": "https://bw.projectsegfau.lt",
-    "iwb_version": "1.0.0"
-  },
-  {
-    "owner_name": "Hostux",
-    "owner_website": "https://hostux.network",
-    "instance": "https://breeze.hostux.net",
-    "iwb_version": "1.0.0"
-  },
-  {
     "owner_name": "Artemis Lena",
     "owner_website": "https://artemislena.eu",
     "instance": "https://bw.artemislena.eu",
@@ -54,15 +30,39 @@
     "iwb_version": "2.2.0"
   },
   {
-    "owner_name": "Whatever Social",
-    "owner_website": "https://whatever.social/",
-    "instance": "https://nerd.whatever.social",
-    "iwb_version": "2.2.0"
+    "owner_name": "Hostux",
+    "owner_website": "https://hostux.network",
+    "instance": "https://breeze.hostux.net",
+    "iwb_version": "1.0.0"
   },
   {
     "owner_name": "nohoster",
     "owner_website": "",
     "instance": "https://breeze.nohost.network",
+    "iwb_version": "2.2.0"
+  },
+  {
+    "owner_name": "Project Segfault",
+    "owner_website": "https://projectsegfau.lt",
+    "instance": "https://bw.projectsegfau.lt",
+    "iwb_version": "1.0.0"
+  },
+  {
+    "owner_name": "PussTheCat.org",
+    "owner_website": "https://pussthecat.org",
+    "instance": "https://breezewiki.pussthecat.org",
+    "iwb_version": "1.0.0"
+  },
+  {
+    "owner_name": "~vern",
+    "owner_website": "https://vern.cc",
+    "instance": "https://bw.vern.cc",
+    "iwb_version": "1.0.0"
+  },
+  {
+    "owner_name": "Whatever Social",
+    "owner_website": "https://whatever.social/",
+    "instance": "https://nerd.whatever.social",
     "iwb_version": "2.2.0"
   }
 ]
