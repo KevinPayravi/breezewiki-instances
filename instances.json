@@ -64,5 +64,11 @@
     "owner_website": "https://whatever.social/",
     "instance": "https://nerd.whatever.social",
     "iwb_version": "2.2.0"
+  },
+  {
+    "owner_name": "WhateverItWorks",
+    "owner_website": "https://whateveritworks.org",
+    "instance": "https://breeze.whateveritworks.org",
+    "iwb_version": "2.2.0"
   }
 ]
