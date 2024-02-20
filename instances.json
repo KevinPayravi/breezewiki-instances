@@ -18,8 +18,20 @@
     "iwb_version": "1.0.0"
   },
   {
+    "owner_name": "Catsarch",
+    "owner_website": "https://catsarch.com",
+    "instance": "https://breezewiki.catsarch.com",
+    "iwb_version": "3.6.0"
+  },
+  {
+    "owner_name": "frontendfriendly.xyz",
+    "owner_website": "https://frontendfriendly.xyz",
+    "instance": "https://breezewiki.frontendfriendly.xyz",
+    "iwb_version": "3.6.0"
+  },
+  {
     "owner_name": "Hamstro",
-    "owner_website": "https://hamstro.dev/",
+    "owner_website": "https://hamstro.dev",
     "instance": "https://bw.hamstro.dev",
     "iwb_version": "2.2.0"
   },
@@ -30,10 +42,34 @@
     "iwb_version": "1.0.0"
   },
   {
+    "owner_name": "hyperreal",
+    "owner_website": "https://hyperreal.coffee",
+    "instance": "https://breezewiki.hyperreal.coffee",
+    "iwb_version": "3.6.0"
+  },
+  {
+    "owner_name": "mint.lgbt",
+    "owner_website": "https://mint.lgbt",
+    "instance": "https://breeze.mint.lgbt",
+    "iwb_version": "3.6.0"
+  },
+  {
+    "owner_name": "Nadeko",
+    "owner_website": "https://nadeko.net",
+    "instance": "https://breezewiki.nadeko.net",
+    "iwb_version": "3.6.0"
+  },
+  {
     "owner_name": "nohoster",
     "owner_website": "",
     "instance": "https://breeze.nohost.network",
     "iwb_version": "2.2.0"
+  },
+  {
+    "owner_name": "opnxng",
+    "owner_website": "https://opnxng.com",
+    "instance": "https://z.opnxng.com",
+    "iwb_version": "3.6.0"
   },
   {
     "owner_name": "Project Segfault",
@@ -58,5 +94,11 @@
     "owner_website": "https://whateveritworks.org",
     "instance": "https://breeze.whateveritworks.org",
     "iwb_version": "2.3.1"
+  },
+  {
+    "owner_name": "Woodland Cafe",
+    "owner_website": "https://woodland.cafe",
+    "instance": "https://breezewiki.woodland.cafe",
+    "iwb_version": "3.6.0"
   }
 ]
