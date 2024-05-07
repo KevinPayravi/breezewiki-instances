@@ -1,11 +1,5 @@
 [
   {
-    "owner_name": "Cadence",
-    "owner_website": "https://cadence.moe",
-    "instance": "https://breezewiki.com",
-    "iwb_version": "1.0.0"
-  },
-  {
     "owner_name": "Artemis Everfree",
     "owner_website": "https://artemis.sh/",
     "instance": "https://antifandom.com",
@@ -42,12 +36,6 @@
     "iwb_version": "1.0.0"
   },
   {
-    "owner_name": "hyperreal",
-    "owner_website": "https://hyperreal.coffee",
-    "instance": "https://breezewiki.hyperreal.coffee",
-    "iwb_version": "3.6.0"
-  },
-  {
     "owner_name": "mint.lgbt",
     "owner_website": "https://mint.lgbt",
     "instance": "https://breeze.mint.lgbt",
@@ -82,18 +70,6 @@
     "owner_website": "https://pussthecat.org",
     "instance": "https://breezewiki.pussthecat.org",
     "iwb_version": "1.0.0"
-  },
-  {
-    "owner_name": "Whatever Social",
-    "owner_website": "https://whatever.social/",
-    "instance": "https://nerd.whatever.social",
-    "iwb_version": "2.2.0"
-  },
-  {
-    "owner_name": "WhateverItWorks",
-    "owner_website": "https://whateveritworks.org",
-    "instance": "https://breeze.whateveritworks.org",
-    "iwb_version": "2.3.1"
   },
   {
     "owner_name": "Woodland Cafe",
