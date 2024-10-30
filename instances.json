@@ -36,6 +36,12 @@
     "iwb_version": "1.0.0"
   },
   {
+    "owner_name": "hyperreal",
+    "owner_website": "https://hyperreal.coffee",
+    "instance": "https://breezewiki.hyperreal.coffee",
+    "iwb_version": "3.6.0"
+  },
+  {
     "owner_name": "mint.lgbt",
     "owner_website": "https://mint.lgbt",
     "instance": "https://breeze.mint.lgbt",
