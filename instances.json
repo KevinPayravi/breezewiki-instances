@@ -64,5 +64,11 @@
     "owner_website": "https://woodland.cafe",
     "instance": "https://breezewiki.woodland.cafe",
     "iwb_version": "3.6.0"
+  },
+  {
+    "owner_name": "loaf.network",
+    "owner_website": "https://loaf.network",
+    "instance": "https://breezewiki.loaf.network",
+    "iwb_version": "3.12.0"
   }
 ]
