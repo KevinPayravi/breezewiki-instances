@@ -64,11 +64,5 @@
     "owner_website": "https://pussthecat.org",
     "instance": "https://breezewiki.pussthecat.org",
     "iwb_version": "1.0.0"
-  },
-  {
-    "owner_name": "Woodland Cafe",
-    "owner_website": "https://woodland.cafe",
-    "instance": "https://breezewiki.woodland.cafe",
-    "iwb_version": "3.6.0"
   }
 ]
