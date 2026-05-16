@@ -58,5 +58,11 @@
     "owner_website": "https://pussthecat.org",
     "instance": "https://breezewiki.pussthecat.org",
     "iwb_version": "1.0.0"
+  },
+  {
+    "owner_name": "Radian LLC",
+    "owner_website": "https://radian.codes",
+    "instance": "https://breeze.radian.codes",
+    "iwb_version": "3.14.5"
   }
 ]
