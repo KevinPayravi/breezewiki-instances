@@ -24,28 +24,10 @@
     "iwb_version": "2.2.0"
   },
   {
-    "owner_name": "hyperreal",
-    "owner_website": "https://hyperreal.coffee",
-    "instance": "https://breezewiki.hyperreal.coffee",
-    "iwb_version": "3.6.0"
-  },
-  {
     "owner_name": "mint.lgbt",
     "owner_website": "https://mint.lgbt",
     "instance": "https://breeze.mint.lgbt",
     "iwb_version": "3.6.0"
-  },
-  {
-    "owner_name": "Nadeko",
-    "owner_website": "https://nadeko.net",
-    "instance": "https://breezewiki.nadeko.net",
-    "iwb_version": "3.6.0"
-  },
-  {
-    "owner_name": "nohoster",
-    "owner_website": "",
-    "instance": "https://breeze.nohost.network",
-    "iwb_version": "2.2.0"
   },
   {
     "owner_name": "PussTheCat.org",
